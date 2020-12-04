@@ -1,0 +1,12 @@
+/target/
+/test-output/
+.allure
+.settings
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
